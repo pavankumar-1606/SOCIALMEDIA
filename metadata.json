@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Stream Wave",
+  "description": "A modern social media platform featuring feed, chat, explore, and AI-powered content creation tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
